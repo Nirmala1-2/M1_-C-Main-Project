@@ -2,9 +2,7 @@ PROJ_NAME = Vaccine_Registration
 SRC = Project_main.c\
 src/existreg.c\
 src/regist.c
-TEST_SRC = src/regist.c\
 src/existreg.c\
-test/test_regist.c\
 unity/unity.c 
   
 
@@ -53,4 +51,4 @@ sanitize_check:
 
 clean:
 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
-© 2022 GitHub, Inc.
+Â© 2022 GitHub, Inc.
