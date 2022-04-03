@@ -20,8 +20,7 @@ int vaccine_status(int );
 void main {
     int citizen card;
     int student card;
-    int ph_number;
-    int secret_code;
+   
    }
 
 #endif
