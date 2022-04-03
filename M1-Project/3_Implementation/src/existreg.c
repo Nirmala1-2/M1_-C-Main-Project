@@ -8,6 +8,5 @@ int existregist(){
     pd[1].age=123;
     pd[1].citizen card _number=123;
     pd[1].student card_number=123;
-    pd[1].secret_code=123;
     return 0;
 }
